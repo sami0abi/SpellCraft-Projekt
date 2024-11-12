@@ -21,6 +21,7 @@ class test {
 
         // Zeige das JLabel in einem Dialogfeld an
         JOptionPane.showMessageDialog(null, l);
+        hallo
     }
 }
 
